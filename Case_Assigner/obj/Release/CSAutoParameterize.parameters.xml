@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CaseAssignerDBAzureConnString-Web.config Connection String" description="CaseAssignerDBAzureConnString Connection String used in web.config by the application to access the database." defaultValue="Data Source=caseassignerdb.database.windows.net;Initial Catalog=CaseAssignerDB;Persist Security Info=True;User ID=dustin.conlon;Password=Artemis_1997" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\dusti\\source\\repos\\Case_Assigner\\Case_Assigner\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CaseAssignerDBAzureConnString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[CSMTable]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
