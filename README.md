@@ -1,5 +1,11 @@
 # Case-Assigner
 
+## DEPRECATED
+This code base is no longer utilized. It has been uploaded with keys and database references for reference only. They will not work in a production environment as their endpoints no longer exist.
+
+Code was decompiled from a backup from a failed harddrive and does not contain comments.
+
+## About
 A tool I designed to allow Critical Situation Managers and Shift Leads manage cases and assigned duties related to Critical Situation Response. 
 
 Case Assigner was utilized in part during my stay at a previous employment, however it never continued, as an official tool was developed by the parent company.
